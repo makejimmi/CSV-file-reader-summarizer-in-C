@@ -1,4 +1,4 @@
-# Phone Billing Summarizer
+# Phone Billing Summarizer (College project)
 
 ## Project Overview
 This project involves a C program that reads, processes, and summarizes phone billing data from CSV files. It is specifically designed to handle phone billing records, calculating costs based on call duration and destination. The program efficiently manages data using a custom implementation of linked lists.
@@ -35,7 +35,7 @@ This project involves a C program that reads, processes, and summarizes phone bi
    - Ensure the phone billing CSV file contains columns for caller, callee, duration, and date/time.
    - Prepare a separate CSV file with rate information, including country prefixes and corresponding rates.
 
-2. **Run the Program**: Execute the program with the paths to the billing and rate CSV files as inputs.
+2. **Run the Program**: Execute the program with the paths to the billing and rate CSV files as inputs (up until now, only tried it in the IDE "Codeblock").
 
 3. **View Summary**: The program outputs a summarized report of the total costs and other relevant statistics.
 
