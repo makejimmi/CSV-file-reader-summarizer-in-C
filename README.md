@@ -13,7 +13,7 @@ This project involves a C program that reads, processes, and summarizes phone bi
 
 - **Cost Calculation**: Determines the cost of calls by matching the country rates with the caller's number prefix.
 
-- **Summarization**: Provides a summary of total costs and other relevant aggregated data from the billing records.
+- **Summarization**: Provides relevant aggregated data from the billing records.
 
 ## Technical Details
 
