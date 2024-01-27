@@ -1,0 +1,119 @@
+
+Subscriber 436765851234
+Calls: 1
+Invoice for July - Duration: 00:00:00
+
+Subscriber 34608321234
+Calls: 1
+Invoice for July - Duration: 00:02:22
+
+Subscriber 4313681234
+Calls: 1
+Invoice for July - Duration: 00:00:09
+
+Subscriber 4350191234
+Calls: 2
+Invoice for July - Duration: 00:00:00
+Invoice for June - Duration: 00:03:20
+
+Subscriber 43720531234
+Calls: 1
+Invoice for July - Duration: 00:01:46
+
+Subscriber 436602831234
+Calls: 1
+Invoice for July - Duration: 00:04:31
+
+Subscriber 4317171234
+Calls: 2
+Invoice for July - Duration: 00:06:29
+Invoice for June - Duration: 00:02:46
+
+Subscriber 4316041234
+Calls: 1
+Invoice for October - Duration: 00:01:20
+
+Subscriber 4373223031234
+Calls: 1
+Invoice for October - Duration: 00:03:52
+
+Subscriber 4312371234
+Calls: 1
+Invoice for October - Duration: 00:02:53
+
+Subscriber 4312141234
+Calls: 1
+Invoice for October - Duration: 00:00:21
+
+Subscriber 43720551234
+Calls: 2
+Invoice for October - Duration: 00:00:00
+Invoice for October - Duration: 00:00:00
+
+Subscriber 436504271234
+Calls: 1
+Invoice for October - Duration: 00:00:00
+
+Subscriber 43747741234
+Calls: 1
+Invoice for October - Duration: 00:01:38
+
+Subscriber 4312361234
+Calls: 3
+Invoice for October - Duration: 00:03:01
+Invoice for June - Duration: 00:00:00
+Invoice for June - Duration: 00:00:00
+
+Subscriber 431521234
+Calls: 1
+Invoice for October - Duration: 00:00:00
+
+Subscriber 4318901234
+Calls: 1
+Invoice for October - Duration: 00:00:00
+
+Subscriber 437252211234
+Calls: 3
+Invoice for October - Duration: 00:00:08
+Invoice for October - Duration: 00:00:21
+Invoice for October - Duration: 00:00:00
+
+Subscriber 43725231234
+Calls: 1
+Invoice for October - Duration: 00:00:00
+
+Subscriber 43725021234
+Calls: 1
+Invoice for October - Duration: 00:00:03
+
+Subscriber 436765301234
+Calls: 1
+Invoice for October - Duration: 00:00:21
+
+Subscriber 4315211234
+Calls: 1
+Invoice for October - Duration: 00:00:22
+
+Subscriber 431512171234
+Calls: 1
+Invoice for October - Duration: 00:00:00
+
+Subscriber 4375828161234
+Calls: 1
+Invoice for June - Duration: 00:02:46
+
+Subscriber 4318921234
+Calls: 1
+Invoice for June - Duration: 00:00:00
+
+Subscriber 431802661234
+Calls: 1
+Invoice for June - Duration: 00:03:20
+
+Subscriber 4315461234
+Calls: 1
+Invoice for June - Duration: 00:03:39
+
+Subscriber 4315241234
+Calls: 1
+Invoice for June - Duration: 00:00:00
